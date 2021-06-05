@@ -56,6 +56,7 @@ public class TextUtils {
     }
 
     public static void clearScreen() {
-        System.out.print(colorize( Command.CLEAR_SCREEN() ));
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
     }
 }
