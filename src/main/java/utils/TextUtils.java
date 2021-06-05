@@ -1,10 +1,6 @@
 package utils;
 
-import com.diogonunes.jcolor.Command;
-
 import java.util.Scanner;
-
-import static com.diogonunes.jcolor.Ansi.colorize;
 
 public class TextUtils {
 
