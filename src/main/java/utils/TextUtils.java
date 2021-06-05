@@ -31,12 +31,13 @@ public class TextUtils {
      */
     public static String getInput(String prompt) {
         print(prompt);
+        return getInput();
 
+    }
+
+    public static String getInput() {
         Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine().trim();
-        sc.close();
-
-        return input;
+        return sc.nextLine().trim();
 
     }
 
