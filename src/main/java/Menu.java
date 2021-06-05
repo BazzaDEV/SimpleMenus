@@ -1,12 +1,8 @@
-import com.diogonunes.jcolor.Command;
 import org.apache.commons.lang3.StringUtils;
 import utils.TextUtils;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
-
-import static com.diogonunes.jcolor.Ansi.colorize;
 
 public class Menu {
 
@@ -42,7 +38,7 @@ public class Menu {
             choice.performAction();
 
             TextUtils.getInput("\n[Press any key to return to the main menu...]\n");
-            // TextUtils.printEmptyLines(20);
+            TextUtils.clearScreen();
         }
 
     }
