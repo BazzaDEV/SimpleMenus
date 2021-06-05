@@ -39,7 +39,8 @@ public class Menu {
             choice.performAction();
 
             TextUtils.getInput("\n[Press any key to return to the main menu...]\n");
-            TextUtils.printEmptyLines(20);
+            TextUtils.clearScreen();
+            // TextUtils.printEmptyLines(20);
         }
 
     }

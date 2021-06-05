@@ -1,6 +1,10 @@
 package utils;
 
+import com.diogonunes.jcolor.Command;
+
 import java.util.Scanner;
+
+import static com.diogonunes.jcolor.Ansi.colorize;
 
 public class TextUtils {
 
@@ -49,5 +53,9 @@ public class TextUtils {
         }
 
         System.out.println(stringBuilder.toString());
+    }
+
+    public static void clearScreen() {
+        System.out.print(colorize( Command.CLEAR_SCREEN() ));
     }
 }
