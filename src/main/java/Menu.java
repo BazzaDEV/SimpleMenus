@@ -38,6 +38,7 @@ public class Menu {
 
             choice.performAction();
 
+            TextUtils.getInput("\n[Press any key to return to the main menu...]\n");
             TextUtils.printEmptyLines(20);
         }
 
@@ -71,8 +72,7 @@ public class Menu {
     private MenuOption getInput() {
         System.out.print(">> ");
 
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine().trim();
+        String input = TextUtils.getInput();
 
         if (input.length() == 1) {
             char c = input.charAt(0);
