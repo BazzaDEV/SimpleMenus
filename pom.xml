@@ -17,12 +17,29 @@
     <name>Simple Menus</name>
     <description>Easy Java menus.</description>
 
+    <repositories>
+        <!-- Used for private GitHub-Repositories. Needed for JColor -->
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
     <dependencies>
+        <!-- Apache Commons Lang3 -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.12.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.diogonunes/JColor -->
+        <dependency>
+            <groupId>com.github.dialex</groupId>
+            <artifactId>JColor</artifactId>
+            <version>v5.1.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
