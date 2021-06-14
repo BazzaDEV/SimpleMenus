@@ -38,6 +38,8 @@ allprojects {
 Then add the dependency:
 ```gradle
 dependencies {
-  implementation 'com.github.BazzaDEV:OptimalEnchantTool:Tag'
+  implementation 'com.github.BazzaDEV:OptimalEnchantTool:1.2.1'
 }
 ```
+
+## Usage
