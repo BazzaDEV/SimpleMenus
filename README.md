@@ -1,12 +1,12 @@
-# SimpleMenus
+# Simple Menus *for Java*
 [![](https://jitpack.io/v/BazzaDEV/OptimalEnchantTool.svg)](https://jitpack.io/#BazzaDEV/OptimalEnchantTool)  
 
 ## Where can I get the latest release?
 
-### Local JAR
+### **Local JAR**
 You can pull the JAR from the **Releases** tab on the right, and add it as a local dependency to your project.
 
-### Maven
+### **Maven**
 Alternatively, you can pull it from the JitPack repo using Maven.
 
 First, add the JitPack repository:
@@ -25,7 +25,7 @@ Finally, add the SimpleMenus dependency:
 </dependency>
 ```
 
-### Gradle
+### **Gradle**
 Add the JitPack respository to the root `build.gradle` at the end of repositories:
 ```gradle  
 allprojects {
