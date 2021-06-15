@@ -43,3 +43,9 @@ dependencies {
 ```
 
 ## Usage
+
+## Examples
+
+Currently, only my own project, [Optimal Enchant Tool](https://go.bazza.dev/OET) utilizes *Simple Menus*.
+
+If you have used *Simple Menus* in your own project and want to feature it here, shoot me a message on Discord (**Bazza#1111**).
