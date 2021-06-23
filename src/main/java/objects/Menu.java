@@ -1,3 +1,5 @@
+package objects;
+
 import org.apache.commons.lang3.StringUtils;
 import utils.TextUtils;
 
