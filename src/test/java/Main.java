@@ -1,3 +1,7 @@
+import objects.Menu;
+import objects.MenuOption;
+import objects.MenuText;
+
 public class Main {
 
     public static void main(String[] args) {
