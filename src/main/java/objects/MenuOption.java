@@ -41,7 +41,7 @@ public class MenuOption {
 /*************************************************************************************************************/
 
 
-    static class MenuOptionFactory {
+    public static class MenuOptionFactory {
 
     //********************** Class Variables **********************//
 

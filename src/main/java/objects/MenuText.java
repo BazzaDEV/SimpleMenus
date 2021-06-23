@@ -27,7 +27,7 @@ public class MenuText {
 
     /*************************************************************************************************************/
 
-    static class MenuTextFactory {
+    public static class MenuTextFactory {
 
         //********************** Class Variables **********************//
 

@@ -89,7 +89,7 @@ public class Menu {
 /*************************************************************************************************************/
 
 
-    static class MenuFactory {
+    public static class MenuFactory {
 
         //********************** Class Variables **********************//
 
