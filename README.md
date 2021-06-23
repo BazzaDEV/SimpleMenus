@@ -104,7 +104,7 @@ Okay, now time for the fun part - the options! The goal is to have 3 options for
 2. `C` to run a method which takes in an animal name, then returns it in upper case only if that animal was part of our list (from the first option);
 3. and finally, quit the application with `Q`.
 
-If you haven't already copied the template class from the top of [this section](#usage), now's a better time than ever for that!
+If you haven't already copied the template class from the top of [this section](#-usage), now's a better time than ever for that!
 
 We're going to walk you through creating one of the menu options, then show you how to make the rest in a faster way.
 
@@ -213,8 +213,6 @@ Menu menu = Menu.create()
         
         menu.runMenu();
 ```
-
-
 
 ## 🚀 Examples
 
