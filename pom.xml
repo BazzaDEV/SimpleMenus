@@ -15,7 +15,7 @@
     </properties>
 
     <name>Simple Menus</name>
-    <description>Easy Java menus.</description>
+    <description>CLI menus in Java made easy.</description>
 
     <dependencies>
         <!-- Apache Commons Lang3 -->
