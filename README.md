@@ -48,7 +48,7 @@ allprojects {
 Then add the dependency:
 ```gradle
 dependencies {
-  implementation 'com.github.BazzaDEV:OptimalEnchantTool:1.2.1'
+  implementation 'com.github.BazzaDEV:SimpleMenus:1.2.1'
 }
 ```
 
