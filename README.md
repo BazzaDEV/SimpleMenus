@@ -1,5 +1,5 @@
 # Simple Menus *for Java*
-[![](https://jitpack.io/v/BazzaDEV/OptimalEnchantTool.svg)](https://jitpack.io/#BazzaDEV/OptimalEnchantTool)
+[![](https://jitpack.io/v/BazzaDEV/SimpleMenus.svg)](https://jitpack.io/#BazzaDEV/SimpleMenus)
 
 ## Table of Contents
 - [Simple Menus *for Java*](#simple-menus-for-java)
