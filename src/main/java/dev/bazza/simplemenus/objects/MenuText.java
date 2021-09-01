@@ -1,4 +1,4 @@
-package objects;
+package dev.bazza.simplemenus.objects;
 
 import org.apache.commons.lang3.StringUtils;
 

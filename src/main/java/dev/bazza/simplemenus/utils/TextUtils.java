@@ -1,4 +1,4 @@
-package utils;
+package dev.bazza.simplemenus.utils;
 
 import java.util.Scanner;
 

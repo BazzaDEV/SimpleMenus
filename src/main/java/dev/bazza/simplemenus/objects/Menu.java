@@ -1,7 +1,7 @@
-package objects;
+package dev.bazza.simplemenus.objects;
 
 import org.apache.commons.lang3.StringUtils;
-import utils.TextUtils;
+import dev.bazza.simplemenus.utils.TextUtils;
 
 import java.util.ArrayList;
 import java.util.List;

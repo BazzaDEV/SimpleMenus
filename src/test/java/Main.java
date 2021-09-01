@@ -1,6 +1,6 @@
-import objects.Menu;
-import objects.MenuOption;
-import objects.MenuText;
+import dev.bazza.simplemenus.objects.Menu;
+import dev.bazza.simplemenus.objects.MenuOption;
+import dev.bazza.simplemenus.objects.MenuText;
 
 public class Main {
 
