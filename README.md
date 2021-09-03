@@ -58,9 +58,8 @@ dependencies {
 
 The best way for you to see how this works is to follow along with me while I build a project.
 
-Copy or download the following Java class from one of the links below:
-- **Paste**: https://paste.lucko.me/1zSiSmROgy
-- **Gist**: https://gist.github.com/BazzaDEV/5293820b8b183040f0b749f67ef6c2cf
+Copy or download the following Java class from the link below:
+https://gist.github.com/BazzaDEV/5293820b8b183040f0b749f67ef6c2cf
 
 You could build an entire menu in one chain of method calls by calling a `MenuFactory`. However, I won't be doing this here so you can follow along easily. We call a `MenuFactory` with `Menu.create()`:
 
