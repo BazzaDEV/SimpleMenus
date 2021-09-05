@@ -31,7 +31,7 @@ Finally, add the SimpleMenus dependency:
 <dependency>
   <groupId>com.github.BazzaDEV</groupId>
   <artifactId>SimpleMenus</artifactId>
-  <version>1.2.1</version>
+  <version>1.2.3</version>
 </dependency>
 ```
 
@@ -48,7 +48,7 @@ allprojects {
 Then add the dependency:
 ```gradle
 dependencies {
-  implementation 'com.github.BazzaDEV:SimpleMenus:1.2.1'
+  implementation 'com.github.BazzaDEV:SimpleMenus:1.2.3'
 }
 ```
 
